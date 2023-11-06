@@ -1,0 +1,34 @@
+.container{
+    height: auto;
+    margin: auto;
+    margin: 100px;
+    /* padding-bottom: 50px; */
+}
+
+.heading{
+    text-align: center;
+}
+
+.heading h3{
+    color: purple;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+.uploads{
+    display: flex;
+    align-items: center;
+    margin-left: 30em;
+    margin-top: 10em;
+}
+
+.button{
+    background-color: purple;
+    color: #fff;
+    height: 30px;
+    width: 160px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+   
+}
